@@ -1,6 +1,6 @@
-update=6/22/2015 1:26:55 AM
+update=6/26/2015 5:58:20 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -46,8 +46,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=CPEG423_Timer
-[general]
-version=1
 [pcbnew]
 version=1
 LastNetListRead=
@@ -86,3 +84,5 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=CPEG423_Timer
+[general]
+version=1
