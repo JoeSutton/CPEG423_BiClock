@@ -438,7 +438,7 @@ BeginCmp
 TimeStamp = /55836F44;
 Reference = U2;
 ValeurCmp = OSC;
-IdModule  = ;
+IdModule  = Si501;
 EndCmp
 
 BeginCmp
