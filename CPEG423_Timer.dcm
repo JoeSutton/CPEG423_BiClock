@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/19/2015 12:28:16 PM
+#
+$CMP 7400
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP 74HC00
+D Quad nand2
+K HCMOS nand2
+$ENDCMP
+#
+$CMP 74HCT00
+D Quad nand2
+K HCTMOS nand2
+$ENDCMP
+#
+$CMP 74HCT04(2)
+D Hex Inverseur
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP 74LS37
+D Quad Buffer nand2
+K TTL nand2 buffer
+$ENDCMP
+#
+$CMP SN74HC132
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+#End Doc Library
